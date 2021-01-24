@@ -14,15 +14,15 @@ app.listen(process.env.PORT);
 
 
 const UP = require("uplife-api");
-var prefix = "<enter your prefix>";
-var owner = "<enter your user id>";
+var prefix = "<g>";
+var owner = "<578121557902098452>";
 
 UP.loginMe("< auth code>", "< bot id >");
 //Bot online 10s then
 setTimeout(() => {
   
 UP.start(
-  "<Enter your Bot Token>",
+  "<ODAyNzg3NzQ1MTIyNjE1MzA2.YA0UWQ.9f9VtPjK8uFm1V909MUQ-dWexTY>",
   prefix,
   owner,
   {
