@@ -17,7 +17,7 @@ const UP = require("uplife-api");
 var prefix = "<g>";
 var owner = "<578121557902098452>";
 
-UP.loginMe("< auth code>", "< bot id >");
+UP.loginMe("< GBa.NwvWCD>", "< 802787745122615306>");
 //Bot online 10s then
 setTimeout(() => {
   
